@@ -1,0 +1,1 @@
+/usr/local/Cellar/pyenv/1.2.6/versions/3.7.0/envs/Elizabeth/lib/python3.7/site-packages
